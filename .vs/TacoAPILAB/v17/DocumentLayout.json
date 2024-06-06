@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacky\\projects\\TacoAPILAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F251FA0-D4C0-41DC-BA24-5D0146E66B25}|TacoAPILAB\\TacoAPILAB.csproj|c:\\users\\jacky\\projects\\tacoapilab\\tacoapilab\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F251FA0-D4C0-41DC-BA24-5D0146E66B25}|TacoAPILAB\\TacoAPILAB.csproj|solutionrelative:tacoapilab\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F251FA0-D4C0-41DC-BA24-5D0146E66B25}|TacoAPILAB\\TacoAPILAB.csproj|c:\\users\\jacky\\projects\\tacoapilab\\tacoapilab\\models\\fastfoodtacodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F251FA0-D4C0-41DC-BA24-5D0146E66B25}|TacoAPILAB\\TacoAPILAB.csproj|solutionrelative:tacoapilab\\models\\fastfoodtacodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F251FA0-D4C0-41DC-BA24-5D0146E66B25}|TacoAPILAB\\TacoAPILAB.csproj|c:\\users\\jacky\\projects\\tacoapilab\\tacoapilab\\models\\taco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F251FA0-D4C0-41DC-BA24-5D0146E66B25}|TacoAPILAB\\TacoAPILAB.csproj|solutionrelative:tacoapilab\\models\\taco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Taco.cs",
+              "DocumentMoniker": "C:\\Users\\jacky\\projects\\TacoAPILAB\\TacoAPILAB\\Models\\Taco.cs",
+              "RelativeDocumentMoniker": "TacoAPILAB\\Models\\Taco.cs",
+              "ToolTip": "C:\\Users\\jacky\\projects\\TacoAPILAB\\TacoAPILAB\\Models\\Taco.cs",
+              "RelativeToolTip": "TacoAPILAB\\Models\\Taco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:15:31.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\jacky\\projects\\TacoAPILAB\\TacoAPILAB\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "TacoAPILAB\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\jacky\\projects\\TacoAPILAB\\TacoAPILAB\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "TacoAPILAB\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:13:01.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FastFoodTacoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jacky\\projects\\TacoAPILAB\\TacoAPILAB\\Models\\FastFoodTacoDbContext.cs",
+              "RelativeDocumentMoniker": "TacoAPILAB\\Models\\FastFoodTacoDbContext.cs",
+              "ToolTip": "C:\\Users\\jacky\\projects\\TacoAPILAB\\TacoAPILAB\\Models\\FastFoodTacoDbContext.cs",
+              "RelativeToolTip": "TacoAPILAB\\Models\\FastFoodTacoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:12:07.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
